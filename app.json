@@ -1,0 +1,21 @@
+{
+  "name": "AI Travel Planner Agent",
+  "description": "An AI-powered Travel Planner Agent built using IBM watsonx.ai, IBM Granite 4, Flask, HTML, CSS, and JavaScript. The application generates personalized travel itineraries, hotel recommendations, transport suggestions, budget estimates, and travel tips based on user preferences.",
+  "version": "1.0.0",
+  "author": "Bhavya Gupta",
+  "license": "MIT",
+  "keywords": [
+    "IBM",
+    "watsonx.ai",
+    "Granite",
+    "Travel Planner",
+    "Agentic AI",
+    "Flask",
+    "Python"
+  ],
+  "runtime": {
+    "language": "Python",
+    "version": "3.10"
+  },
+  "entrypoint": "app.py"
+}
